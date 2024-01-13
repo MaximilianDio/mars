@@ -29,5 +29,10 @@
 ## citation
 
 ```
-[1] M. Dio, A. Völz and K. Graichen, "Cooperative Dual-Arm Control for Heavy Object Manipulation Based on Hierarchical Quadratic Programming," 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Detroit, MI, USA, 2023, pp. 643-648, doi: 10.1109/IROS55552.2023.10341854.
+@inproceedings{hqp2023dio,
+  author={Dio, Maximilian and Völz, Andreas and Graichen, Knut},
+  title={Cooperative Dual-Arm Control for Heavy Object Manipulation Based on Hierarchical Quadratic Programming}, 
+  booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  year={2023},
+  pages={643-648}
 ```
