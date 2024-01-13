@@ -2,15 +2,15 @@
 
 <img src="logo.jpeg" alt="MARS logo" width="200" height="200">
 
-## model and simulation
+## Model and Simulation
 
 [Readme](model_and_simulation/Readme.md)
 
-## path planning
+## Path Planning
 
-### dynamic planning
+### Dynamic Planning
 
-## trajectory generation
+## Trajectory Generation
 
 ### Time-Optimal Path Parametrization (TOPP)
 
@@ -26,7 +26,7 @@
 
 ### Model Predictive Control (MPC)
 
-## citation
+## Citation
 
 ```
 @inproceedings{hqp2023dio,
